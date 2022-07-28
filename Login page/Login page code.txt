@@ -2,6 +2,8 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Resouces Login</title>
+<link rel="icon" type="x-icon" href="favicon.ico">
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
 form {border: 3px solid #f1f1f1;}
@@ -22,7 +24,7 @@ button {
   margin: 8px 0;
   border: none;
   cursor: pointer;
-  width: 100%;
+  width: auto;
 }
 
 button:hover {
@@ -70,7 +72,7 @@ span.psw {
 
 <h3>Login Page</h3>
 
-<form action="https://augustus.iqnavigator.com/security/login?service=https://augustus.iqnavigator.com/FO/CasRedirect" method="post">
+<form action="Replace with the link that connect to the database/datatables" method="post">
   <div class="imgcontainer">
     <img src="Accenture.png" alt="Accenture Logo" class="logo">
   </div>
